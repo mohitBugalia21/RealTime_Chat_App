@@ -10,7 +10,7 @@ import Input from "../Input/Input";
 import Messages from "../Messages/Messages";
 import RoomList from "../RoomList/RoomList";
 
-const ENDPOINT = "http://localhost:3001";
+const ENDPOINT = "https://realtime-chat-app-froj.onrender.com";
 
 let socket;
 
